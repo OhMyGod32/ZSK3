@@ -1,0 +1,17 @@
+{
+    "scope": "/",
+    "name": "知识库",
+    "short_name": "知识库",
+    "start_url": "/",
+    "display": "standalone",
+    "description": "知识库",
+    "lang": "cn",
+    "orientation": "portrait",
+    "theme_color": "#70B7FD",
+    "background_color": "#fff",
+    "icons": [{
+        "src": "wd.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }]
+}
